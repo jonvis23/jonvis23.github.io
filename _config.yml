@@ -42,12 +42,12 @@ github: jonvis23
 email: jonvis113@gmail.com
 
 authors:
-  johndoe:
+  johnelvis:
     name: John Elvis
-    bio: Data ScienceEnthusiast
-    external-image: false
+    bio: Data Science Enthusiast
+    external-image: true
     picture: assets/images/profile.jpg
-    twitter: johndoe
+    twitter: jonelvis23
 
 
 # do you want a larger site? change the option below
