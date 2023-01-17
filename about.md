@@ -14,7 +14,7 @@ layout: page
 	<li>Git</li>
 	<li>PHP</li>
 	<li>Python</li>
-	<li>MySQL
+	<li>MySQL</li>
 </ul>
 
 <h2>Projects</h2>
