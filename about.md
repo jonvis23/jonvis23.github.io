@@ -4,7 +4,7 @@ layout: page
 ---
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
-<p>Hello! My name is John Elvis, currently based in Nairobi, Kenya.I'm a Business IT student with an interest and focus in Data Science. I love computers and dealing with chunks of data.</p>
+<p>Hello! My name is John Elvis, currently based in Nairobi,Kenya. I'm a Business IT student with an interest and focus in Data Science. I love computers and telling stories about data.</p>
 
 
 <h2>Skills</h2>
@@ -20,7 +20,5 @@ layout: page
 <h2>Projects</h2>
 
 <ul>
-	<li><a href="https://github.com/">Lorem Lorem</a></li>
-	<li><a href="https://github.com/">Ipsum Dolor</a></li>
-	<li><a href="https://github.com/">Dolor Lorem</a></li>
+	<li>...LOADING...92%</li>
 </ul>
